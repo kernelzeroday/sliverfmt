@@ -1,3 +1,3 @@
 # sliverfmt
 
-pbpaste | python sliverfmt.py kill
+pbpaste | python sliver_mass_cmd.py kill
